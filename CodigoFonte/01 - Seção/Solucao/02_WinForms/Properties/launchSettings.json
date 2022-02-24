@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Perfil 1": {
+      "commandName": "Executable",
+      "jsWebView2Debugging": false
+    }
+  }
+}

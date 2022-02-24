@@ -1,0 +1,7 @@
+C:\Users\Matheus\Documents\GitHub\CursosMontreal\CodigoFonte\01 - Seção\Solucao\02_WinForms\obj\Debug\net5.0-windows\02_WinForms.csproj.AssemblyReference.cache
+C:\Users\Matheus\Documents\GitHub\CursosMontreal\CodigoFonte\01 - Seção\Solucao\02_WinForms\obj\Debug\net5.0-windows\_02_WinForms.Form1.resources
+C:\Users\Matheus\Documents\GitHub\CursosMontreal\CodigoFonte\01 - Seção\Solucao\02_WinForms\obj\Debug\net5.0-windows\02_WinForms.csproj.GenerateResource.cache
+C:\Users\Matheus\Documents\GitHub\CursosMontreal\CodigoFonte\01 - Seção\Solucao\02_WinForms\obj\Debug\net5.0-windows\02_WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Documents\GitHub\CursosMontreal\CodigoFonte\01 - Seção\Solucao\02_WinForms\obj\Debug\net5.0-windows\02_WinForms.AssemblyInfoInputs.cache
+C:\Users\Matheus\Documents\GitHub\CursosMontreal\CodigoFonte\01 - Seção\Solucao\02_WinForms\obj\Debug\net5.0-windows\02_WinForms.AssemblyInfo.cs
+C:\Users\Matheus\Documents\GitHub\CursosMontreal\CodigoFonte\01 - Seção\Solucao\02_WinForms\obj\Debug\net5.0-windows\02_WinForms.csproj.CoreCompileInputs.cache

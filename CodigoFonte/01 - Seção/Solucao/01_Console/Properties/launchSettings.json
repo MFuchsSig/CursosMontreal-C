@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "01_Console": {
+      "commandName": "Project",
+      "jsWebView2Debugging": false
+    }
+  }
+}
